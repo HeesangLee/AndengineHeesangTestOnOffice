@@ -2,7 +2,7 @@
 
 ## SlideSwitchRect
 - To use on FlashLight app. 
-- Move class to hsLib project after verification is done.
+- Move class to hsLib project after verification is done.  
 ### Layer
 4.title text  
 3-2.key knob  
