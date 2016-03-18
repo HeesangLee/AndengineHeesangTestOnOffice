@@ -12,5 +12,11 @@
 1.slide bar  
 0.base  
 
-| Layer | Component | Description |  
+| Layer | Component | Comment |  
 | :---: | :---: | :---: |  
+| 4 | title text | - |
+| 3-2 | key knob | attach key knob on key object |
+| 3-1 | key | - |
+| 2 | progress bar | - |
+| 1 | slide bar | set width same as base |
+| 0 | base | base rectangle object, transparent |
